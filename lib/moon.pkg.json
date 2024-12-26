@@ -1,0 +1,17 @@
+{
+    "link": {
+        "wasm-gc": {
+            "exports": [
+                "generate"
+            ],
+            "export-memory-name": "memory"
+        },
+        "wasm": {
+            "exports": [
+                "generate"
+            ],
+            "export-memory-name": "memory"
+        }
+    },
+    "import": []
+}

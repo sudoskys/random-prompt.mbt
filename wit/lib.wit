@@ -1,0 +1,4 @@
+package host:lib;
+world generate {
+    export generate: func(seed: s32) -> string;
+}
